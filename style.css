@@ -168,7 +168,13 @@
 .form-control{
     font-size: 15px;
     margin-left: 15px;
+    
 }
+
+.btn{
+    color: black;
+}
+
 .idiomas{
     border-radius: 3px;
 }
