@@ -114,6 +114,7 @@
 
 .conteudo-principal-3:hover{
     background-color: #837e7e;
+    color:white;
    
 }
 
@@ -166,6 +167,7 @@
 }
 .form-control{
     font-size: 15px;
+    margin-left: 15px;
 }
 .idiomas{
     border-radius: 3px;
